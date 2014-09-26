@@ -1,16 +1,23 @@
-void setup(){}
-void draw(){}
+void setup()
+{
+	
+}
+void draw()
+{
+
+}
 class vehicle
 {
-	vechicle()
+	vehicle()
 	{
 
 	}
 }
+
 class person
 {
 	person()
 	{
-	
+
 	}
 }
